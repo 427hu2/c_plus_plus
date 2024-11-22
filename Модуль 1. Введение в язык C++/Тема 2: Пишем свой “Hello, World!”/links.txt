@@ -1,0 +1,4 @@
+https://habr.com/ru/articles/324984/
+https://stackoverflow.com/questions/997946/how-to-get-current-time-and-date-in-c
+https://en.cppreference.com/w/cpp/chrono/c/tm
+https://en.cppreference.com/w/cpp/chrono/c/time
