@@ -1,0 +1,6 @@
+https://otus.ru/nest/post/798/
+https://www.youtube.com/watch?v=mmxYXfzta2E
+https://stackoverflow.com/questions/7560114/random-number-c-in-some-range
+https://en.cppreference.com/w/cpp/numeric/random/random_device
+https://stackoverflow.com/questions/39288595/why-not-just-use-stdrandom-device
+https://www.youtube.com/watch?v=_VGobYAm6gA
