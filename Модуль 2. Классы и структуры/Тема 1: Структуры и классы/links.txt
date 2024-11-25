@@ -1,0 +1,2 @@
+https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c2-use-class-if-the-class-has-an-invariant-use-struct-if-the-data-members-can-vary-independently
+https://stackoverflow.com/questions/54585/when-should-you-use-a-class-vs-a-struct-in-c
