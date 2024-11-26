@@ -1,0 +1,2 @@
+https://education.yandex.ru/handbook/cpp/article/inheritance-and-polymorphism
+https://ravesli.com/urok-154-bazovoe-nasledovanie-v-c/
