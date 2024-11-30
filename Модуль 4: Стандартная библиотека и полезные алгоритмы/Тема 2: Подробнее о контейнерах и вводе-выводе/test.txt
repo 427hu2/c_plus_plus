@@ -1,0 +1,4 @@
+I need to split a string by single spaces and store it into an array of strings. I can achieve this using a istringstream,
+but what I am not being able to achieve is this:
+I want every space to terminate the current word. So,
+if there are two spaces consecutively, one element of my array should be blank.
